@@ -15,5 +15,3 @@ Online Multi-Label Classification under Noisy and Changing Label Distribution
  
 # Reference
   Zou Y, Hu X, Li P, et al. Online multi-label classification under noisy and changing label distribution[J]. Pattern Recognition, 2025: 112892.
-
-# ELM-NCLD
